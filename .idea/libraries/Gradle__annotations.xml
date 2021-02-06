@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: annotations">
+    <CLASSES>
+      <root url="jar://D:/Program/AS42addon/SDK/tools/support/annotations.jar!/" />
+      <root url="jar://D:/Program/Android/SDK/tools/support/annotations.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

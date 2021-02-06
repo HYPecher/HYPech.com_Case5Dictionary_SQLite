@@ -1,0 +1,17 @@
+com.supermario.dict:string/searchWord = 0x7f060003
+com.supermario.dict:string/searchLabel = 0x7f060002
+com.supermario.dict:raw/dictionary = 0x7f050000
+com.supermario.dict:color/blue = 0x7f010000
+com.supermario.dict:id/word = 0x7f030005
+com.supermario.dict:layout/word_list_item = 0x7f040001
+com.supermario.dict:color/white = 0x7f010002
+com.supermario.dict:id/searchWord = 0x7f030002
+com.supermario.dict:string/app_name = 0x7f060000
+com.supermario.dict:layout/main = 0x7f040000
+com.supermario.dict:string/hello = 0x7f060001
+com.supermario.dict:id/search = 0x7f030001
+com.supermario.dict:drawable/ic_launcher = 0x7f020000
+com.supermario.dict:id/tvWordItem = 0x7f030004
+com.supermario.dict:id/textView1 = 0x7f030003
+com.supermario.dict:id/result = 0x7f030000
+com.supermario.dict:color/gray = 0x7f010001

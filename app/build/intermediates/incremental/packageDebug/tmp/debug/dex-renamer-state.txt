@@ -1,0 +1,4 @@
+#Sat Feb 06 18:34:26 EST 2021
+base.0=A\:\\ASCode\\Case6Dictionary\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
